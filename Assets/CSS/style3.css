@@ -1,0 +1,72 @@
+.name {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 15px;
+    padding: 20px;
+    background-color: teal;
+    font-weight: bolder;
+    margin-left: 220px;
+}
+.side {
+    padding-right: 350px;
+}
+.a {
+    float: bottom;
+    color: teal;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-right: 15px;
+    padding: 20px;
+    position: absolute;
+}
+
+.container{
+    padding-top: 100px;
+    width: max-content;
+}
+.contacts {
+    background: white;
+    clear:both;
+    box-sizing: border-box;
+    height: 700px;
+    width: 1000px;
+    margin:170px;
+    padding-bottom: 3px;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray; 
+   text-align: center;
+   border-top-style: solid; 
+   border-top-color: teal;
+   font-size: smaller;
+   border-block-start-width: 5px;
+ }
+.form-group2 {
+    margin-left: auto;
+}
+.btn-primary {
+    color: #fff;
+    background-color: teal;
+    border-color: teal;}
+.card-body {
+    padding:.25rem
+    }
+
+       .card-deck .card {
+        display: flex;
+        -ms-flex: 1 0 0%;
+        flex: 1 0 0%;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-right: 15px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
